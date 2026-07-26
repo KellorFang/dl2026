@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+
+# VSCode Code Runner
+tempCodeRunnerFile.py
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
